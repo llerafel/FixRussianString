@@ -1,0 +1,4 @@
+/* Automate generate */
+IGUI_RU = {
+    IGUI_BenchPress_Tooltip =   "Делать жим лежа",
+}
