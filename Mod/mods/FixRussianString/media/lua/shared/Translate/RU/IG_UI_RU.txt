@@ -1,4 +1,12 @@
 /* Automate generate */
 IGUI_RU = {
+    IGUI_CraftCategory_Salvage = "Утилизация автозапчастей",
+    IGUI_ContainerTitle_freezer_off = "Морозильник выключен",
+    IGUI_ContainerTitle_fridge_off  = "Холодильник выключен",
     IGUI_BenchPress_Tooltip =   "Делать жим лежа",
+    IGUI_Treadmill_Tooltip =    "Тренироваться на беговой дорожке",
+    IGUI_heavy =                "Слишком тяжелая, чтобы использовать ее прямо сейчас",
+    IGUI_need_barbell =         "Мне нужна штанга, чтобы сделать это упражнение",
+    IGUI_pain =                 "Мне слишком больно",
+    IGUI_perks_Efficiency = "Эффективность",
 }
