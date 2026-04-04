@@ -1,0 +1,10 @@
+Stash_EN = {
+/* WorkshopItemID 3133529567 */
+    Stash_AbandonedSurvivorBase_Stash_AbandonedSurvivorBaseMap1_text1 = "the snitch was Joaquin all along",
+    Stash_AbandonedSurvivorBase_Stash_AbandonedSurvivorBaseMap1_text2 = "make sure they are asleep",
+    Stash_AbandonedSurvivorBase_Stash_AbandonedSurvivorBaseMap1_text3 = "KILL THAT FUCKER",
+    Stash_AbandonedSurvivorBase_Stash_AbandonedSurvivorBaseMap1_text4 = "we are hiding at ranger station",
+    Stash_AbandonedSurvivorBase_Stash_AbandonedSurvivorBaseMap1_text5 = "they shot joe and cait",
+    Stash_AbandonedSurvivorBase_Stash_AbandonedSurvivorBaseMap1_text6 = "I am not gonna make it, love you dear",
+    Stash_AbandonedSurvivorBase_Stash_AbandonedSurvivorBaseMap1_text7 = "guns hidden here",
+}

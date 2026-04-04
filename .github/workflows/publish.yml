@@ -1,0 +1,46 @@
+name: Steam Workshop Publish
+
+# Pushes to main made with the default GITHUB_TOKEN do NOT trigger other workflows (GitHub restriction).
+# After Crowdin auto-merge completes, this workflow is started via workflow_run.
+on:
+  workflow_run:
+    workflows:
+      - Auto-merge Crowdin translations
+    types:
+      - completed
+  push:
+    branches:
+      - main
+    paths:
+      - 'Mod/**'
+  workflow_dispatch:
+
+concurrency:
+  group: steam-workshop-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # workflow_run sees the l10n_main head SHA; we need merged main on the remote.
+          ref: ${{ github.event_name == 'workflow_run' && 'main' || github.sha }}
+
+      - uses: CyberAndrii/steam-totp@v1
+        name: Generate TOTP
+        id: steam-totp
+        with:
+          shared_secret: ${{ secrets.STEAM_SHARED_SECRET }}
+
+      - uses: m00nl1ght-dev/steam-workshop-deploy@main
+        with:
+          username: ${{ secrets.STEAM_USERNAME }}
+          password: ${{ secrets.STEAM_PASSWORD }}
+          totp: ${{ steps.steam-totp.outputs.code }}
+          path: Mod
+          appId: 108600
+          publishedFileId: 3695958699

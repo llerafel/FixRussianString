@@ -1,0 +1,23 @@
+# Compiled Lua modules
+*.so
+*.dll
+*.la
+*.lo
+*.o
+*.pyc
+
+# LuaRocks artifacts
+/lua_modules/
+*.rock
+*.rockspec.bak
+
+# Testing & Linting
+/spec/
+.luacheckcache
+
+# Temporary/Log files
+*.log
+luac.out
+
+.secrets
+/.idea/
