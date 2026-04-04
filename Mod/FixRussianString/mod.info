@@ -1,0 +1,5 @@
+name=FixRussianString
+id=FixRussianString
+description=Исправление строк русского перевода.
+modversion=1.0
+versionMin=41.78.16

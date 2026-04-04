@@ -1,0 +1,65 @@
+ItemName_EN = {
+/* WorkshopItemID 2744675505 */
+    ItemName_LTN_SL.Lantern = "Electric Lantern",
+    ItemName_LTN_SL.GasLantern = "Gas Lantern",
+
+/* WorkshopItemID 2684285534 */
+    ItemName_Spongie.Jacket_SheepWool = "Winter Jacket",
+    ItemName_Spongie.Jacket_SheepWoolOPEN = "Winter Jacket",
+    ItemName_Spongie.Jacket_Flight = "Flight Jacket",
+    ItemName_Spongie.Jacket_FlightOPEN = "Flight Jacket",
+    ItemName_Spongie.Jacket_FlightVest = "Flight Jacket Vest",
+    ItemName_Spongie.Jacket_FlightVestOPEN = "Flight Jacket Vest",
+    ItemName_Spongie.Jacket_PoliceArmor = "Short Police Armoured Jacket",
+    ItemName_Spongie.Jacket_PoliceArmorLong = "Police Armoured Jacket",
+    ItemName_Spongie.Jacket_Denim = "Denim Jacket",
+    ItemName_Spongie.Jacket_DenimOPEN = "Denim Jacket",
+    ItemName_Spongie.Jacket_WinterCoat = "Winter Coat",
+    ItemName_Spongie.Jacket_WinterCoatDOWN = "Winter Coat",
+    ItemName_Spongie.Jacket_Field = "Field Jacket",
+    ItemName_Spongie.Jacket_FieldOPEN = "Field Jacket",
+    ItemName_Spongie.Jacket_Bomber = "Bomber Jacket",
+    ItemName_Spongie.Jacket_BomberOPEN = "Bomber Jacket",
+    ItemName_Spongie.Jacket_PeaCoat = "Pea Coat",
+    ItemName_Spongie.Jacket_PeaCoatOPEN = "Pea Coat",
+    ItemName_Spongie.Jacket_PeaCoat2 = "Pea Coat",
+    ItemName_Spongie.Jacket_PeaCoat2OPEN = "Pea Coat",
+    ItemName_Spongie.Jacket_Tweed = "Tweed Jacket",
+    ItemName_Spongie.Jacket_TweedOPEN = "Tweed Jacket",
+    ItemName_Spongie.Trousers_Tweed = "Tweed Pants",
+    ItemName_Spongie.Trousers_TweedTUCK = "Tweed Pants",
+    ItemName_Spongie.Jacket_Ribbed = "Ribbed Leather Jacket",
+    ItemName_Spongie.Jacket_RibbedOPEN = "Ribbed Leather Jacket",
+
+    ItemName_Spongie.Vest_Waterproof = "Windbreaker Vest",
+
+    ItemName_Spongie.Jumper_TurtleVest = "Polo Neck Sweater Vest",
+    ItemName_Spongie.Jumper_Military = "Military Sweater",
+    ItemName_Spongie.Jumper_MilitaryTIED = "Military Sweater",
+    ItemName_Spongie.TShirt_Compression = "Compression T-shirt",
+    ItemName_Spongie.TShirt_CompressionLong = "Long Sleeve Compression T-shirt",
+
+    ItemName_Spongie.Shorts_Spandex = "Compression Shorts",
+    ItemName_Spongie.Shorts_SpandexLong = "Compression Leggings",
+
+    ItemName_Spongie.Gloves_StripedLong = "Arm Warmers",
+    ItemName_Spongie.Gloves_LeatherFingerless = "Fingerless Leather Gloves",
+    ItemName_Spongie.Gloves_MilitaryFingerless = "Fingerless Military Gloves",
+
+/* WorkshopItemID 3374408921 */
+    ItemName_Efficiency.BookEfficiency1 = "Efficiency I: "How to Get Things Done"",
+    ItemName_Efficiency.BookEfficiency2 = "Efficiency II: "Techniques to Act Faster"",
+    ItemName_Efficiency.BookEfficiency3 = "Efficiency III: "Mastering Quick Workflow"",
+    ItemName_Efficiency.BookEfficiency4 = "Efficiency IV: "Strategies for Rapid Action"",
+    ItemName_Efficiency.BookEfficiency5 = "Efficiency V: "The Advanced Guide to Time Control"",
+
+/* WorkshopItemID 3349077118 */
+    ItemName_Base.bigscarf_black = "Big Scarf - Black",
+    ItemName_Base.bigscarf_blue = "Big Scarf - Blue",
+    ItemName_Base.bigscarf_brown = "Big Scarf - Brown",
+    ItemName_Base.bigscarf_green = "Big Scarf - Green",
+    ItemName_Base.bigscarf_magenta = "Big Scarf - Magenta",
+    ItemName_Base.bigscarf_red = "Big Scarf - Red",
+    ItemName_Base.bigscarf_white = "Big Scarf - White",
+
+}

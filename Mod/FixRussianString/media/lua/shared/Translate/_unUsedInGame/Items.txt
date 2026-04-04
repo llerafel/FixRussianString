@@ -1,0 +1,9 @@
+Items_EN = {
+/* WorkshopItemID 3067798182 */
+    DisplayName_BMMagazineCars            = "Precision Vehicle Windows and Crafting",
+    DisplayName_BMMagazineGlass           = "Handyman Corner's Kitchen Kilns",
+    DisplayName_BMMagazineSecretEntrances = "Secret Passageways Monthly",
+    DisplayName_GlassPane                 = "Glass Pane",
+    DisplayName_PanWithGlassPane          = "Pan with Glass Pane",
+    DisplayName_PanWithGlassShards        = "Pan with Glass Shards",
+}

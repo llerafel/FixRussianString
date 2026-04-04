@@ -1,0 +1,35 @@
+Fluids_EN = {
+/* WorkshopItemID 2335368829 */
+    Fluid_Container_AquaBottle       = "Water Bottle",
+    Fluid_Container_AuthenticCanteen = "Canteen",
+    Fluid_Container_GymBottle        = "Gym Bottle",
+
+/* WorkshopItemID 2875059598 */
+    Fluid_Name_Ginseng    = "Ginseng Infusion",
+    Fluid_Name_Lemongrass = "Lemongrass Infusion",
+    Fluid_Name_Mallow     = "Mallow Herbal Tea",
+    Fluid_Name_RiceMilk   = "Rice Milk",
+
+/* WorkshopItemID 3042138819 */
+    Fluid_Container_BeerMug      = "Beer Mug",
+    Fluid_Name_FABubBeer         = "Bub Beer",
+    Fluid_Name_FABubLiteBeer     = "Bub Lite Beer",
+    Fluid_Name_FADrPeppa         = "Dr Peppa",
+    Fluid_Name_FAHomeBrewBeer    = "Home Brew Beer",
+    Fluid_Name_FAKYCola          = "KY Cola",
+    Fluid_Name_FALemonLime       = "Lemon Lime Soda",
+    Fluid_Name_FAMixedBerries    = "Mixed Berries Soda",
+    Fluid_Name_FARootBeer        = "Root Beer",
+    Fluid_Name_FASwillerBeer     = "Swiller Beer",
+    Fluid_Name_FASwillerLiteBeer = "Swiller Lite Beer",
+
+/* WorkshopItemID 3171167894 */
+    Fluid_Container_MilitaryGasCan   = "Military Gas Can",
+    Fluid_Container_MilitaryWaterCan = "Military Water Can",
+
+/* WorkshopItemID 2875059598 */
+    Fluid_Name_RiceMilk = "Rice Milk",
+    Fluid_Name_Ginseng = "Ginseng Infusion",
+    Fluid_Name_Lemongrass = "Lemongrass Infusion",
+    Fluid_Name_Mallow = "Mallow Herbal Tea",
+}

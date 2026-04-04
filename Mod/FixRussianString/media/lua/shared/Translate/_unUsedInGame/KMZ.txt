@@ -1,0 +1,17 @@
+/* WorkshopItemID 3340134879 */
+UI_KMZ_TabName = KMZ
+UI_KMZ_Header = Kill Milestones
+UI_KMZ_None = None
+UI_KMZ_LastPositive = Last Positive: %1
+UI_KMZ_LastNegative = Last Negative: %1
+UI_KMZ_NextMilestone = Next Milestone: %1
+UI_KMZ_Rarity_Common = Common
+UI_KMZ_Rarity_Uncommon = Uncommon
+UI_KMZ_Rarity_Rare = Rare
+UI_KMZ_Rarity_Legendary = Legendary
+UI_KMZ_Mastered = Mastered All Traits!
+UI_KMZ_MasteredYes = Mastered All Traits: Yes
+UI_KMZ_MasteredNo = Mastered All Traits: No
+IGUI_GainedPositiveTrait = Gained Positive Trait
+IGUI_RemovedNegativeTrait = Removed Negative Trait
+UI_KMZ_StatsOption = KMZ Stats
