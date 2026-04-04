@@ -7,6 +7,8 @@ UI_RU = {
     UI_trait_efficientDesc = "По какой?то причине вы быстрее всех остальных.",
     UI_trait_inefficient = "Неэффективный",
     UI_trait_inefficientDesc = "Вы ленивы и медлительны.",
+    UI_DrawOnMap_Draw = "Нарисовать",
+    UI_DrawOnMap_Erase = "Стереть",
     UI_DrawOnMap_Thickness = "Толщина",
     UI_DrawOnMap_Fill = "Плотность",
 }
