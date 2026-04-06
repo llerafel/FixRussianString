@@ -1,0 +1,16 @@
+/* Automate generate */
+UI_KMZ_Header = Вехи убийств
+UI_KMZ_None = Нет
+UI_KMZ_LastPositive = Последняя положительная черта\: %1
+UI_KMZ_LastNegative = Последняя отрицательная черта\: %1
+UI_KMZ_NextMilestone = Следующая веха\: %1
+UI_KMZ_Rarity_Common = Обычная
+UI_KMZ_Rarity_Uncommon = Необычная
+UI_KMZ_Rarity_Rare = Редкая
+UI_KMZ_Rarity_Legendary = Легендарная
+UI_KMZ_Mastered = Все черты освоены\!
+UI_KMZ_MasteredYes = Все черты освоены\: Да
+UI_KMZ_MasteredNo = Все черты освоены\: Нет
+IGUI_GainedPositiveTrait = Получена положительная черта
+IGUI_RemovedNegativeTrait = Удалена отрицательная черта
+UI_KMZ_StatsOption = Статистика KMZ
