@@ -36,6 +36,7 @@ UI_EN = {
     UI_ESIM_MERGEALL   = "Merge all",
 
 /* WorkshopItemID 2694448564 */
+    UI_ModManager_NotAvailable                   = "N/A",
     UI_ModManager_About_Navigation_Server        = "Navigation: <LINE> <INDENT:20> ARROW UP/DOWN - move to next/previous <LINE> PAGE UP/DOWN - scroll up/down <LINE> HOME/END - move to first/last <LINE> ENTER or SPACE - add/remove mod <LINE> TAB - switch between search and mod list <LINE> ESC - close the window <LINE> <INDENT:0> ",
     UI_ModManager_Filter_Button_Reset_Tooltip    = "Reset filters. <LINE> Long press: reset to default.",
     UI_ModManager_Filter_Button_Save_Tooltip     = "Save filters",
@@ -81,6 +82,7 @@ UI_EN = {
     UI_SNIFF_REACT_GOOD5 = "Yeah bay-beeeeeee",
 
 /* WorkshopItemID 2855320431 */
+    UI_Sentimental_EasterEggRicksTagsTooltip                           = "You were good son, real good, maybe even the best.",
     UI_EvenMoreTraits_Options_JuggernautTwoHandedKnockbackHits         = "Juggernaut: 2 Handed Weapon Knockback",
     UI_EvenMoreTraits_Options_JuggernautTwoHandedKnockbackHits_ToolTip = "Hits with 2 handed weapons cause zombies to stagger back, similar to being pushed. <br>This removes their normal hit stun effect.",
     UI_Sentimental_OwnershipSuffix                                     = "'s",
@@ -192,6 +194,7 @@ UI_EN = {
     UI_optionscreen_binding_Change_Z_Level_Key = "Activate Z Level Change",
 
 /* WorkshopItemID 3042138819 */
+    UI_FunctionalAppliances_kycola                  = "KY Cola",
     UI_FunctionalAppliances_activateautostart       = "Activate Auto Start",
     UI_FunctionalAppliances_activatemarker          = "Activate Range Marker",
     UI_FunctionalAppliances_addallfuel              = "Add All",
@@ -357,5 +360,21 @@ UI_EN = {
     UI_GameNightWindow = " <CENTRE> <SIZE:medium> This is the game window. <LINE> <LINE> <SIZE:small> <LEFT> There are a number of controls associated with this window and game-night <LINE> <LINE> <SIZE:small> <LEFT> Holding left-click lets you move items around, shift key alters the action. <LINE> <LINE> <SIZE:small> <LEFT> Right-clicking pieces will open a context menu which shows what actions are available. <LINE> <LINE> <SIZE:small> <LEFT> You can also drag items from your inventory or a card deck search-window. <LINE> <LINE> <SIZE:small> <LEFT> There is a delay/cool-down represented with a timer icon over pieces recently interacted with. <LINE> <LINE> <SIZE:small> <LEFT> Additionally, there is a scale-UI button at the bottom left, next to the close button. <LINE> <LINE> <LINE> <SIZE:small> <LEFT> Enjoy game night! <LINE> <LINE>",
 
     UI_GameNightSearch = " <CENTRE> <SIZE:medium> This is the deck search window. <LINE> <LINE> <SIZE:small> <LEFT> You are able to interact with cards here as you would else where with a few additional options. <LINE> <LINE> <SIZE:small> <LEFT> Dragging cards in-between other cards (where you see a thin line) with insert the card there. <LINE> <LINE> <SIZE:small> <LEFT> Dragging a card over another (the entire card with highlight) will swap the two. <LINE> <LINE> <SIZE:small> <LEFT> You can also drag items from here to the game window. <LINE> <LINE> <LINE> <SIZE:small> <LEFT> Enjoy game night! <LINE> <LINE>",
+
+/* WorkshopItemID 3058279917 */
+    UI_optionscreen_binding_chc_category_title = "Craft Helper",
+
+/* WorkshopItemID 3058279917 */
+    UI_95_Title                 = "95",
+    UI_CowboysFromHell_Title    = "Cowboys From Hell",
+    UI_Floods_Title             = "Floods",
+    UI_GodPolyphia_Title        = "God (Polyphia)",
+    UI_Hurt_Title               = "Hurt",
+    UI_LucidDreams_Title        = "Lucid Dreams",
+    UI_SomethingInTheWay_Title  = "Something In The Way",
+    UI_Superman_Title           = "Superman",
+    UI_Sway_Title               = "Sway",
+    UI_ToLiveIsToDie_Title      = "To Live Is To Die",
+    UI_TornadoOfSouls_Title     = "Tornado Of Souls",
 
 }

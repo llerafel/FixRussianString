@@ -166,6 +166,9 @@ Sandbox_EN = {
     Sandbox_MoreTraitsDynamic_WildsmanKill                                        = "Wildsman Spear Kill Requirement",
     Sandbox_MoreTraitsDynamic_WildsmanSkill                                       = "Wildsman Skill Requirement",
     Sandbox_MoreTraitsDynamic_WildsmanSkill_tooltip                               = "Foraging + Fishing + Trapping",
+    Sandbox_MoreTraits_SuperImmuneMinimum                                         = "Super Immune Minimum Days",
+    Sandbox_MoreTraits_BurnedDistance                                             = "Burn Ward Patient Distance",
+    Sandbox_MoreTraits_BatteringRamMartial                                        = "Battering Ram + Martial Artist",
 
 /* WorkshopItemID 2297098490 */
     Sandbox_A26_EnumVLR_option21 = "100% - NO REDUCTION",
@@ -227,6 +230,7 @@ Sandbox_EN = {
     Sandbox_SapphCooking_SpicesSpawnChance_option6     = "Abundant",
     Sandbox_SapphCooking_SpicesSpawnChance_option7     = "None (not recommended)",
     Sandbox_SapphCooking_ZLootSpawn_option7            = "None",
+    Sandbox_SapphCooking                               = "Sapph Cooking",
 
 /* WorkshopItemID 2847184718 */
     Sandbox_ProxInv            = "Proximity Inventory",
@@ -422,12 +426,41 @@ Sandbox_EN = {
     Sandbox_VehicleRecycling = "Vehicle Recycling",
 
 /* WorkshopItemID 2940354599 */
-    Sandbox_FWOWorkingTreadmill                      = "FWO Treadmill & Bench-Press",
-    Sandbox_FWOWorkingTreadmill_BenchTreadKeepBagsOn = "keep Bags equiped",
-    Sandbox_FWOWorkingTreadmill_BenchpressDropBags   = "Bench-Press Drop Bags On Floor On Unequip",
-    Sandbox_FWOWorkingTreadmill_SprintingXPMultiply  = "Treadmill Sprinting XP Multiplier",
-    Sandbox_FWOWorkingTreadmill_StrengthXPMultiply   = "Treadmill Strength XP Multiplier",
-    Sandbox_FWOWorkingTreadmill_TreadmillDropBags    = "Treadmill Drop Bags On Floor on Unequip",
+    Sandbox_FWOWorkingTreadmill                                 = "FWO Treadmill & Bench-Press",
+    Sandbox_FWOWorkingTreadmill_StrengthXPMultiply              = "Treadmill Strength XP Multiplier",
+    Sandbox_FWOWorkingTreadmill_SprintingXPMultiply             = "Treadmill Sprinting XP Multiplier"
+    Sandbox_FWOWorkingTreadmill_TreadmillDropBags               = "Treadmill Drop Bags On Floor on Unequip"
+    Sandbox_FWOWorkingTreadmill_BenchpressDropBags              = "Bench-Press Drop Bags On Floor On Unequip"
+    Sandbox_FWOWorkingTreadmill_BenchTreadKeepBagsOn            = "keep Bags equiped"
+    Sandbox_FWOFitness                                          = "FWO Fitness & Workout Overhaul",
+    Sandbox_FWOFitness_InitialPerkBonus                         = "Initial Perk Bonus",
+    Sandbox_FWOFitness_InitialPerkBonus_tooltip                 = "Take the inital perk bonus into account (75% 100% 125%)",
+    Sandbox_FWOFitness_currentExerciseRegularityBonus           = "current Exercise Regularity Bonus",
+    Sandbox_FWOFitness_currentExerciseRegularityBonus_tooltip   = "Get a bonus for the current excercise depending on the regularity",
+    Sandbox_FWOFitness_currentExerciseOffset                    = "current Exercise Offset",
+    Sandbox_FWOFitness_currentExerciseOffset_tooltip            = "The 0 point for the linear calculation",
+    Sandbox_FWOFitness_currentExerciseRate                      = "current Exercise Rate",
+    Sandbox_FWOFitness_currentExerciseRate_tooltip              = "The steepness of the linear angle (higher number = higher multiplier)(and higher negatives with offset)",
+    Sandbox_FWOFitness_AverageExerciseRegularityBonus           = "Average Exercise Regularity Bonus",
+    Sandbox_FWOFitness_AverageExerciseRegularityBonus_tooltip   = "Get a bonus depending on the average of all your excercises regularity",
+    Sandbox_FWOFitness_LevelBonus                               = "Level Bonus",
+    Sandbox_FWOFitness_LevelBonus_tooltip                       = "How much multiplier you get per perk level",
+    Sandbox_FWOFitness_SpaceOutExercise                         = "Space Out Exercise",
+    Sandbox_FWOFitness_SpaceOutExercise_tooltip                 = "Get an exp buff when you space out excercises (about 8hr or when muscle soreness sets in) independent for fitness and strength",
+    Sandbox_FWOFitness_SpaceOutExerciseNegative                 = "SpaceOutExercise Negative multiplier",
+    Sandbox_FWOFitness_RestedBonus                              = "Rested Bonus",
+    Sandbox_FWOFitness_RestedBonus_tooltip                      = "Get an exp debuff when you have muscle soreness, buff when 'rested' (no muscle soreness)",
+    Sandbox_FWOFitness_RestedBonusNegative                      = "Rested Bonus negative multiplier",
+    Sandbox_FWOFitness_XPMultiplier                             = "Optional EXPMultiplier",
+    Sandbox_FWOFitness_XPMultiplier_tooltip                     = "Global exp multiplier (makes you earn experience faster or slower, small increments recommanded)"
+    Sandbox_FWOFitness_PassiveMultiplier                        = "Passive EXP Multiplier (out of exercise)",
+    Sandbox_FWOFitness_PassiveMultiplier_tooltip                = "Determens how much multiplier you get outside of doing exercises. EG. fighting,sprinting,...  (0 = OFF No passive exp multiplier)"
+    Sandbox_FWOFitness_BoredomMultiplier                        = "Boredom Multiplier",
+    Sandbox_FWOFitness_BoredomMultiplier_tooltip                = "adjust Boredom reduction gained (0 = off)"
+    Sandbox_FWOFitness_UnhappynessMultiplier                    = "Unhappyness Multiplier",
+    Sandbox_FWOFitness_UnhappynessMultiplier_tooltip            = "adjust Unhappyness reduction gained (0 = off)"
+    Sandbox_FWOFitness_KeepBagsOn                               = "keep Bags equiped"
+    Sandbox_FWOFitness_DropBags                                 = "Drop Bags on floor"
 
 /* WorkshopItemID 2971021306 */
     Sandbox_SurvivingTheStorm                    = "Surviving The Storm",
@@ -462,6 +495,7 @@ Sandbox_EN = {
     Sandbox_Debug_LSVerbose_tooltip                   = "Prints texts. For debugging only.",
     Sandbox_Divider_Art                               = "Art - Enable/Disable",
     Sandbox_Divider_Art_tooltip                       = "Enable/disable all mechanics related to Art (moodles, traits, interactions, ...).",
+    Sandbox_Divider_Debug                             = "__________________ Debug _________________",
     Sandbox_LSDivider_Other                           = "_______________ Other Settings ______________",
     Sandbox_LSDivider_Other_tooltip                   = "This is only a line separator, checking it has no effect.",
     Sandbox_LS_Ambt_Cooldown                          = "Ambitions - Activation Cooldown",
@@ -589,6 +623,7 @@ Sandbox_EN = {
     Sandbox_Kamer_ShowWallHealth_Page = "[K] Show Wall Health",
 
 /* WorkshopItemID 3008448748 */
+    Sandbox_TrueCrawl                                         = "True Crawl",
     Sandbox_TrueCrawl_AimBonusEnable                          = "Enable Aim Bonus",
     Sandbox_TrueCrawl_AimBonusEnable_tooltip                  = "Controls if the Aiming Bonus while prone is ON or OFF. [Default is True]",
     Sandbox_TrueCrawl_AimingCritChanceBonusWhileProne         = "Prone Crit Chance Bonus",
@@ -968,6 +1003,7 @@ Sandbox_EN = {
     Sandbox_FNVG_Options = "Night Vision Goggles",
 
 /* WorkshopItemID 3304580957 */
+    Sandbox_SVUC                                                  = "Standardized Vehicle Upgrades 3",
     Sandbox_SVUC_protectionEngineNonePowerIncrease                = "Supercharger Horsepower Boost",
     Sandbox_SVUC_protectionEngineNonePowerIncrease_tooltip        = "How much horsepower to add when an air scoop's installed.",
     Sandbox_SVUC_protectionEngineSnorkelNonePowerIncrease         = "Air Filter Horsepower Boost",
@@ -1358,15 +1394,25 @@ Sandbox_EN = {
 
 /* WorkshopItemID 1299328280 */
     Sandbox_VRO = "Vehicle Repair Overhaul"
-    
     Sandbox_VRO_EnableFullVehicleSalvaging = "Full Vehicle Salvaging"
 
-/* WorkshopItemID Sandbox_RU_2940354599 */
-    Sandbox_FWOWorkingTreadmill =                       "FWO Treadmill & Bench-Press",
-    Sandbox_FWOWorkingTreadmill_StrengthXPMultiply =    "Treadmill Strength XP Multiplier",
-    Sandbox_FWOWorkingTreadmill_SprintingXPMultiply =   "Treadmill Sprinting XP Multiplier",
-    Sandbox_FWOWorkingTreadmill_TreadmillDropBags =     "Treadmill Drop Bags On Floor on Unequip",
-    Sandbox_FWOWorkingTreadmill_BenchpressDropBags =    "Bench-Press Drop Bags On Floor On Unequip",
-    Sandbox_FWOWorkingTreadmill_BenchTreadKeepBagsOn =  "keep Bags equiped",
+/* WorkshopItemID 2688538916 */
+    Sandbox_FuelAPI = "Fuel API",
+
+/* WorkshopItemID 2822286426 */
+    Sandbox_RVInterior = "RV Interior",
+
+/* WorkshopItemID 2951816996 */
+    Sandbox_ServerTweaker = "Server Tweaker",
+
+/* WorkshopItemID 3052668642 */
+    Sandbox_SOMW = "Simple Overhaul: Melee Weapons",
+
+/* WorkshopItemID 3118159023 */
+    Sandbox_Plumbing = "Plumbing",
+
+/* WorkshopItemID 3162566044 */
+    Sandbox_MoreImmersiveVehicles = "More Immersive Vehicles",
+
 
 }

@@ -957,6 +957,7 @@ Recipes_EN = {
     Recipe_Prepare_Pickles                = "Prepare Pickles",
     Recipe_Prepare_Stroganoff             = "Prepare Stroganoff",
     Recipe_Read_Fortune_Cookie            = "Read Fortune Cookie",
+    Recipe_Make_Banana_Bread_Dough        = "Make Banana Bread Dough",
 
 /* WorkshopItemID 2877732496 */
     Recipe_Insert_Battery_into_Heater = "Insert Battery into Heater",

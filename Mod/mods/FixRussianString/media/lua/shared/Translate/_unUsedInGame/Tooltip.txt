@@ -127,6 +127,7 @@ Tooltip_EN = {
     Tooltip_item_SpoonVitaminMix      = "Mixed herbs and fruits that can be used to heal kidney/stomach related complications. May not work with first use.<br><br>Don't consume all at once but 1/4 at a time.",
 
 /* WorkshopItemID 2997342681 */
+    Tooltip_SheetBook_SongLevelIs                  = " - level: ",
     Tooltip_Action_Cooldown                        = "Action is on cooldown, time remaining: ",
     Tooltip_Action_Exhausted                       = "Too exhausted to perform this activity",
     Tooltip_ArtPaintTubs                           = "Can be used to fill Art Equipment",
