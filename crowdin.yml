@@ -1,5 +1,3 @@
 files:
   - source: Mod/mods/FixRussianString/media/lua/shared/Translate/_unUsedInGame/*.txt
     translation: /Mod/mods/FixRussianString/media/lua/shared/Translate/%two_letters_code%/%file_name%_%two_letters_code%.%file_extension%
-    type: properties
-    update_option: update_as_unparsed
