@@ -1,5 +1,7 @@
 /* Automate generate */
 ItemName_RU = {
+    ItemName_LTN_SL.Lantern = "Ёлектрический фонарь",
+    ItemName_LTN_SL.GasLantern = "√азовый фонарь",
     ItemName_Spongie.Jacket_SheepWool = "«имн€€ куртка",
     ItemName_Spongie.Jacket_SheepWoolOPEN = "«имн€€ куртка",
     ItemName_Spongie.Jacket_Flight = "ЋЄтна€ куртка",

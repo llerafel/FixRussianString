@@ -1,0 +1,9 @@
+/* Automate generate */
+Items_RU = {
+    DisplayName_BMMagazineCars            = "Уверенная работа со стёклами автомобиля",
+    DisplayName_BMMagazineGlass           = "«Очумелые ручки»\: Печь для стекловарения",
+    DisplayName_BMMagazineSecretEntrances = "Потайные ходы. Ежемесячник",
+    DisplayName_GlassPane                 = "Стеклянная панель",
+    DisplayName_PanWithGlassPane          = "Жаровня со стеклянной панелью",
+    DisplayName_PanWithGlassShards        = "Жаровня с осколками стекла",
+}
