@@ -1,7 +1,20 @@
 /* Automate generate */
 Fluids_RU = {
+    Fluid_Container_AquaBottle       = "Бутылка воды",
+    Fluid_Container_AuthenticCanteen = "Фляга",
+    Fluid_Container_GymBottle        = "Спортивная бутылка",
     Fluid_Name_Ginseng = "Настойка женьшеня",
     Fluid_Name_Lemongrass = "Настой лемонграсса",
     Fluid_Name_Mallow = "Травяной чай из мальвы",
     Fluid_Name_RiceMilk = "Рисовое молоко",
+    Fluid_Container_BeerMug      = "Пивная кружка",
+    Fluid_Name_FABubBeer         = "Пиво Bub",
+    Fluid_Name_FABubLiteBeer     = "Пиво Bub Lite",
+    Fluid_Name_FADrPeppa         = "Dr Peppa",
+    Fluid_Name_FAHomeBrewBeer    = "Домашнее пиво",
+    Fluid_Name_FAKYCola          = "KY Cola",
+    Fluid_Name_FALemonLime       = "Лимонно-лаймовая содовая",
+    Fluid_Name_FARootBeer        = "Корневое пиво",
+    Fluid_Name_FASwillerBeer     = "Пиво Swiller",
+    Fluid_Name_FASwillerLiteBeer = "Пиво Swiller Lite",
 }
