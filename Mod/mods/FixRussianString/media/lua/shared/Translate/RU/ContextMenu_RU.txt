@@ -1,6 +1,7 @@
 /* Automate generate */
 ContextMenu_RU = {
     ContextMenu_Fuel_Left                = "Топливо осталось\: ",
+    ContextMenu_RetrieveFuel_Chainsaw    = "Слить бензин",
     ContextMenu_Stopping_Chainsaw        = "Заглушить бензопилу",
     ContextMenu_Loosen                   = "Ослабить",
     ContextMenu_Tighten                  = "Затянуть",
