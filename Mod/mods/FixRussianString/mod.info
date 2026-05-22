@@ -1,4 +1,4 @@
-name=FixRussianString2
+name=FixRussianString
 id=FixRussianString
 description=Исправление строк русского перевода.
 modversion=1.0
